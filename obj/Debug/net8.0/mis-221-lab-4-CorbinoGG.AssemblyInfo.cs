@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mis-221-lab-4-CorbinoGG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5609a388f3973fd3c14f58fd5203f4de0a04d00c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ccf46e0873dd2899463f2bd438637694c9a7906")]
 [assembly: System.Reflection.AssemblyProductAttribute("mis-221-lab-4-CorbinoGG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mis-221-lab-4-CorbinoGG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

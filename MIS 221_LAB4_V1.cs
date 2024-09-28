@@ -6,11 +6,6 @@ class Program{
         while(true){
             MainMenu();
             string userInput = GetMenuInput();
-            while(userInput != "4"){
-                RouteUser(userInput);
-                MainMenu();
-                userInput = GetMenuInput();
-            }
             RouteUser(userInput);
         }
     }
@@ -27,13 +22,13 @@ class Program{
     static void RouteUser(string userInput){
         switch(userInput){
             case "1":
-                NoToppingPizza();
+                PlainPizza();
                 break;
             case "2":
                 CheesePizza();
                 break;
             case "3":
-                PepperoniPizza();
+                PepPizza();
                 break;
             case "4":
                 Exit();
@@ -45,18 +40,72 @@ class Program{
         }
     }
 
-    static void NoToppingPizza(){
-        Console.WriteLine("No Topping Pizza");
+    static void PlainPizza(){
+        Console.Clear();
+        Console.WriteLine("Here is your No-Topping Pizza:\n");
+
+        Random random = new Random(); //initialize randomness
+        int rows = random.Next(8, 13); //generates a random number between 8 and 12
+        for(int i = rows; i >= 1; i--){
+            for(int j = 1; j <= rows - i; j++){
+                Console.Write(" ");
+            }
+            for(int k = 1; k <= i; k++){
+                Console.Write("* ");
+            }
+            Console.WriteLine();
+        }
         Pause();
     }
 
     static void CheesePizza(){
-        Console.WriteLine("Cheese Pizza");
+        Console.Clear();
+        Console.WriteLine("Here is your Cheese Pizza:\n");
+
+        Random random = new Random(); //randomness
+        int rows = random.Next(8, 13);//generates a random number between 8 and 12
+        for(int i = rows; i >= 1; i--){
+            for(int j = 1; j <= rows - i; j++){
+                Console.Write(" ");
+            }
+            for(int k = 1; k <= i; k++){
+                if(i == 1 || i == rows || k == 1 || k == i){
+                    Console.Write("* ");
+                }
+                else{
+                    Console.Write("# ");
+                }
+            }
+            Console.WriteLine();
+        }
         Pause();
     }
 
-    static void PepperoniPizza(){
-        Console.WriteLine("Pepperoni Pizza");
+    static void PepPizza(){
+        Console.Clear();
+        Console.WriteLine("Here is your Pepperoni Pizza:\n");
+
+        Random random = new Random(); //randomness
+        int rows = random.Next(8, 13);//generates a random number between 8 and 12
+        for(int i = rows; i >= 1; i--){
+            for(int j = 1; j <= rows - i; j++){
+                Console.Write(" ");
+            }
+            for(int k = 1; k <= i; k++){
+                if(i == 1 || i == rows || k == 1 || k == i){
+                    Console.Write("* ");
+                }
+                else{
+                    if(random.Next(0, 8) == 0){
+                        Console.Write("[]");
+                    }
+                    else{
+                        Console.Write("# ");
+                    }
+                }
+            }
+            Console.WriteLine();
+        }
         Pause();
     }
 
