@@ -5,11 +5,11 @@ class Program{
     static void Main(){
         while(true){
             MainMenu();
-            string userInput = GetMenuInput(); //loop priming
-            while(userInput != "4"){ //condition control
+            string userInput = GetMenuInput();
+            while(userInput != "4"){
                 RouteUser(userInput);
                 MainMenu();
-                userInput = GetMenuInput(); //update read
+                userInput = GetMenuInput();
             }
             RouteUser(userInput);
         }
