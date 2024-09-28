@@ -1,0 +1,15 @@
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\bin\Debug\net8.0\mis-221-lab-4-CorbinoGG.exe
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\bin\Debug\net8.0\mis-221-lab-4-CorbinoGG.deps.json
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\bin\Debug\net8.0\mis-221-lab-4-CorbinoGG.runtimeconfig.json
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\bin\Debug\net8.0\mis-221-lab-4-CorbinoGG.dll
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\bin\Debug\net8.0\mis-221-lab-4-CorbinoGG.pdb
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\mis-221-lab-4-CorbinoGG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\mis-221-lab-4-CorbinoGG.AssemblyInfoInputs.cache
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\mis-221-lab-4-CorbinoGG.AssemblyInfo.cs
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\mis-221-lab-4-CorbinoGG.csproj.CoreCompileInputs.cache
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\mis-221-lab-4-CorbinoGG.sourcelink.json
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\mis-221-lab-4-CorbinoGG.dll
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\refint\mis-221-lab-4-CorbinoGG.dll
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\mis-221-lab-4-CorbinoGG.pdb
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\mis-221-lab-4-CorbinoGG.genruntimeconfig.cache
+C:\Users\corbi\OneDrive\Desktop\SCHOOL\3_JUNIOR_JOURNEY\SEMESTER_1\MIS 221\LAB\LAB_4\mis-221-lab-4-CorbinoGG\obj\Debug\net8.0\ref\mis-221-lab-4-CorbinoGG.dll
