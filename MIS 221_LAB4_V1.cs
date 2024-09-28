@@ -66,7 +66,7 @@ class Program{
     }
 
     static void Exit(){
-        Console.WriteLine("\nClosing program. Thank you for choosing Crimson Crust.\n");
+        Console.WriteLine("\nClosing program... \nThank you for choosing Crimson Crust.\n");
         Environment.Exit(0);
     }
 }
