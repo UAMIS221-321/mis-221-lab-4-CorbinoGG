@@ -63,17 +63,17 @@ class Program{
         Console.WriteLine("Here is your Cheese Pizza:\n");
 
         Random random = new Random(); //randomness
-        int rows = random.Next(8, 13);//generates a random number between 8 and 12
+        int rows = random.Next(8, 13); //generates a random number between 8 and 12
         for(int i = rows; i >= 1; i--){
             for(int j = 1; j <= rows - i; j++){
                 Console.Write(" ");
             }
             for(int k = 1; k <= i; k++){
-                if(i == 1 || i == rows || k == 1 || k == i){
+                if(i == 1 || i == rows || k == 1 || k == i){ //creates border of crust around pizza
                     Console.Write("* ");
                 }
                 else{
-                    Console.Write("# ");
+                    Console.Write("# "); //cheese
                 }
             }
             Console.WriteLine();
@@ -86,21 +86,21 @@ class Program{
         Console.WriteLine("Here is your Pepperoni Pizza:\n");
 
         Random random = new Random(); //randomness
-        int rows = random.Next(8, 13);//generates a random number between 8 and 12
+        int rows = random.Next(8, 13); //generates a random number between 8 and 12
         for(int i = rows; i >= 1; i--){
             for(int j = 1; j <= rows - i; j++){
                 Console.Write(" ");
             }
             for(int k = 1; k <= i; k++){
-                if(i == 1 || i == rows || k == 1 || k == i){
+                if(i == 1 || i == rows || k == 1 || k == i){ //creates border of crust around pizza
                     Console.Write("* ");
                 }
                 else{
-                    if(random.Next(0, 8) == 0){
-                        Console.Write("[]");
+                    if(random.Next(0, 8) == 0){ //generates random number of pepperonis
+                        Console.Write("[]"); //pepperoni
                     }
                     else{
-                        Console.Write("# ");
+                        Console.Write("# "); //cheese
                     }
                 }
             }
